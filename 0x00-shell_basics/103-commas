@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -map sort -d
+ls ./, ../, 103-commas, folder0/, folder1/
